@@ -4,8 +4,7 @@ public class Calculator {
     }
     public int add(int a, int b){
         int c= a+b;
-        //return c;
-        return 0;
+        return c;
     }
     public int sub(int d, int e){
         int f= d-e;
