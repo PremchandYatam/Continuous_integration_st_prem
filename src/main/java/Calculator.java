@@ -2,7 +2,6 @@ public class Calculator {
     public Calculator(){
 
     }
-    //This is to show build is successful
     public int add(int a, int b){
         int c= a+b;
         return c;
