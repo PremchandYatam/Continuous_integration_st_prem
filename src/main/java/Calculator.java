@@ -12,7 +12,6 @@ public class Calculator {
     }
     public int mul(int g, int h){
         int i= g*h;
-        //return i;
-        return 0;
+        return i;
     }
 }
