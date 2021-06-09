@@ -11,7 +11,7 @@ public class TestCalculator {
     }
     @Test
     public void test_add(){
-        assertEquals(30, obj.add(1,2));
+        assertEquals(3, obj.add(1,2));
     }
     @Test
     public void test_sub(){
