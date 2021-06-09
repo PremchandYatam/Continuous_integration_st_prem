@@ -11,14 +11,14 @@ public class TestCalculator {
     }
     @Test
     public void test_add(){
-        assertEquals(3, obj.add(1,2));
+        assertEquals(30, obj.add(1,2));
     }
     @Test
     public void test_sub(){
-        assertEquals(1, obj.sub(2,1));
+        assertEquals(10, obj.sub(2,1));
     }
     @Test
     public void test_mul(){
-        assertEquals(20, obj.mul(4,5));
+        assertEquals(200, obj.mul(4,5));
     }
 }
