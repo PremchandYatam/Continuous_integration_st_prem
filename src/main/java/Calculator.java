@@ -8,8 +8,7 @@ public class Calculator {
     }
     public int sub(int d, int e){
         int f= d-e;
-        //return f;
-        return 0;
+        return f;
     }
     public int mul(int g, int h){
         int i= g*h;
