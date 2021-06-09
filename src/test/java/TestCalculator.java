@@ -15,7 +15,7 @@ public class TestCalculator {
     }
     @Test
     public void test_sub(){
-        assertEquals(10, obj.sub(2,1));
+        assertEquals(1, obj.sub(2,1));
     }
     @Test
     public void test_mul(){
