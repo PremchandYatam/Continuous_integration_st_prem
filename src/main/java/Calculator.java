@@ -10,4 +10,8 @@ public class Calculator {
         int f=d-e;
         return f;
     }
+    public int mul(int g, int h){
+        int i=g-h;
+        return i;
+    }
 }
