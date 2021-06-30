@@ -10,15 +10,5 @@ public class TestCalculator {
         obj= new Calculator();
     }
     @Test
-    public void test_add(){
-        assertEquals(3, obj.add(1,2));
-    }
-    @Test
-    public void test_sub(){
-        assertEquals(1, obj.sub(2,1));
-    }
-    @Test
-    public void test_mul(){
-        assertEquals(20, obj.mul(4,5));
-    }
+    public void test_add(){assertEquals(3,obj.add(1,2));}
 }
