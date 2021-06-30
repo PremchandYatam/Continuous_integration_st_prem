@@ -11,7 +11,7 @@ public class Calculator {
         return f;
     }
     public int mul(int g, int h){
-        int i=g-h;
+        int i=g*h;
         return i;
     }
 }
